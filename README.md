@@ -5,6 +5,6 @@ Jenkins is not just for CI/CD pipelines. You can easily attach Ops buttons with 
 
 ![Jenkins screenshot](https://itforge.uk/img/jenkins-screenshot.png)
 
-Also, is an open source project you can customized a lot and use it as multi purpose tool in a much lower cost or hosted in a private network for *security reasons*.
+Also, is an open source project you can customized a lot and use it as multi purpose tool in a much lower cost or hosted in a private network for **security reasons**.
 
 You can east try it with ```docker run -it --rm --name jenkins -p 8081:8080 jenkins/jenkins:lts```
